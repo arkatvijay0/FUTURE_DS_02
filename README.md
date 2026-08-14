@@ -304,6 +304,9 @@ These are future enhancements only and were not used in the current project.
 
 👨‍💻 Author
 Vijay Kumar A G
+
 Aspiring Data Analyst | Data Science
+
 Project Focus
+
 Customer Churn Analysis | Excel Dashboard | Data Visualization | Business Analytics
